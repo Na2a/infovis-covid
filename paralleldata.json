@@ -1,0 +1,26 @@
+[
+  {
+    "covidActivePerPopulation": 5.1,
+    "gdpDifference": -3,
+    "stockDifference": -50,
+    "country": "Russia"
+  },
+  {
+    "covidActivePerPopulation": 2,
+    "gdpDifference": -3,
+    "stockDifference": -50,
+    "country": "UK"
+  },
+  {
+    "covidActivePerPopulation": 20,
+    "gdpDifference": -3,
+    "stockDifference": 50,
+    "country": "Spain"
+  },
+  {
+    "covidActivePerPopulation": 11,
+    "gdpDifference": -5,
+    "stockDifference": -70,
+    "country": "Italy"
+  }
+]
