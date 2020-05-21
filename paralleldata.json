@@ -1,26 +1,38 @@
 [
   {
-    "covidActivePerPopulation": 5.1,
-    "gdpDifference": -3,
+    "covidActivePerPopulation": 2176,
+    "gdpDifference": -5.5,
     "stockDifference": -50,
     "country": "Russia"
   },
   {
-    "covidActivePerPopulation": 2,
-    "gdpDifference": -3,
+    "covidActivePerPopulation": 3660,
+    "gdpDifference": -6.5,
     "stockDifference": -50,
-    "country": "UK"
+    "country": "United_Kingdom"
   },
   {
-    "covidActivePerPopulation": 20,
-    "gdpDifference": -3,
+    "covidActivePerPopulation": 5979,
+    "gdpDifference": -8,
     "stockDifference": 50,
     "country": "Spain"
   },
   {
-    "covidActivePerPopulation": 11,
-    "gdpDifference": -5,
+    "covidActivePerPopulation": 3760,
+    "gdpDifference": -9.1,
     "stockDifference": -70,
     "country": "Italy"
+  },
+  {
+    "covidActivePerPopulation": 4817,
+    "gdpDifference": -5.9,
+    "stockDifference": 50,
+    "country": "United_States_of_America"
+  },
+  {
+    "covidActivePerPopulation": 217,
+    "gdpDifference": -1.2,
+    "stockDifference": 50,
+    "country": "South_Korea"
   }
 ]
