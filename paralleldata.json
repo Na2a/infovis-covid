@@ -5,7 +5,7 @@
     "covid3Month": 7.050335077,
     "covid4Month": 57.04745447,
     "gdpDifference": -5.5,
-    "stockDifference": -50,
+    "stockDifference": -15.73,
     "country": "Russia"
   },
   {
@@ -13,8 +13,8 @@
     "covid2Month": 0.9865113931,
     "covid3Month": 50.75142136,
     "covid4Month": 66.32797408,
-    "gdpDifference": -6.5,
-    "stockDifference": -50,
+    "gdpDifference": -1.562,
+    "stockDifference": -24.43,
     "country": "United_Kingdom"
   },
   {
@@ -22,8 +22,8 @@
     "covid2Month": 13.04439612,
     "covid3Month": 121.6259688,
     "covid4Month": 27.57349027,
-    "gdpDifference": -8,
-    "stockDifference": 50,
+    "gdpDifference": -10.773,
+    "stockDifference": -33.12,
     "country": "Spain"
   },
   {
@@ -31,8 +31,8 @@
     "covid2Month": 17.9640231,
     "covid3Month": 75.17705079,
     "covid4Month": 29.21544451,
-    "gdpDifference": -9.1,
-    "stockDifference": -70,
+    "gdpDifference": -4.749,
+    "stockDifference": -27.92,
     "country": "Italy"
   },
   {
@@ -40,8 +40,8 @@
     "covid2Month": 0.6684199138,
     "covid3Month": 67.84803443,
     "covid4Month": 79.06368256,
-    "gdpDifference": -5.9,
-    "stockDifference": 50,
+    "gdpDifference": -1.218,
+    "stockDifference": -13.76,
     "country": "United_States_of_America"
   },
   {
@@ -49,8 +49,17 @@
     "covid2Month": 5.638117452,
     "covid3Month": 1.409518514,
     "covid4Month": 0.2678924175,
-    "gdpDifference": -1.2,
-    "stockDifference": 50,
+    "gdpDifference": -0.6,
+    "stockDifference": -13.95,
     "country": "South_Korea"
+  },
+  {
+    "covid1Month": 1.623253319,
+    "covid2Month": 0.2055083841,
+    "covid3Month": 0.06048987558,
+    "covid4Month": 0.006229777355,
+    "gdpDifference": -25.723,
+    "stockDifference": -6.5,
+    "country": "China"
   }
 ]
