@@ -1,36 +1,54 @@
 [
   {
-    "covidActivePerPopulation": 2176,
+    "covidFirstMonth": 0.0004421104331,
+    "covidSecondMonth": 0.02646564524,
+    "covidThirdMonth": 7.050335077,
+    "covidFourthMonth": 57.04745447,
     "gdpDifference": -5.5,
     "stockDifference": -50,
     "country": "Russia"
   },
   {
-    "covidActivePerPopulation": 3660,
+    "covidFirstMonth": 0.004279129042,
+    "covidSecondMonth": 0.9865113931,
+    "covidThirdMonth": 50.75142136,
+    "covidFourthMonth": 66.32797408,
     "gdpDifference": -6.5,
     "stockDifference": -50,
     "country": "United_Kingdom"
   },
   {
-    "covidActivePerPopulation": 5979,
+    "covidFirstMonth": 0.001379941442,
+    "covidSecondMonth": 13.04439612,
+    "covidThirdMonth": 121.6259688,
+    "covidFourthMonth": 27.57349027,
     "gdpDifference": -8,
     "stockDifference": 50,
     "country": "Spain"
   },
   {
-    "covidActivePerPopulation": 3760,
+    "covidFirstMonth": 0.001600328908,
+    "covidSecondMonth": 17.9640231,
+    "covidThirdMonth": 75.17705079,
+    "covidFourthMonth": 29.21544451,
     "gdpDifference": -9.1,
     "stockDifference": -70,
     "country": "Italy"
   },
   {
-    "covidActivePerPopulation": 4817,
+    "covidFirstMonth": 0.001462794873,
+    "covidSecondMonth": 0.6684199138,
+    "covidThirdMonth": 67.84803443,
+    "covidFourthMonth": 79.06368256,
     "gdpDifference": -5.9,
     "stockDifference": 50,
     "country": "United_States_of_America"
   },
   {
-    "covidActivePerPopulation": 217,
+    "covidFirstMonth": 0.01950672943,
+    "covidSecondMonth": 5.638117452,
+    "covidThirdMonth": 1.409518514,
+    "covidFourthMonth": 0.2678924175,
     "gdpDifference": -1.2,
     "stockDifference": 50,
     "country": "South_Korea"
